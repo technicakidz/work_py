@@ -1,2 +1,2 @@
 # work_py
-pythonのワークスペース
+python's workspace
